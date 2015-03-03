@@ -1,0 +1,26 @@
+{
+  "name": "flowcode",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ibare/flowcode",
+  "authors": [
+    "ibare <ibare77@gmail.com>"
+  ],
+  "description": "flowchart app",
+  "keywords": [
+    "programming",
+    "javascript",
+    "flowchart"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fabric": "~1.4.13"
+  }
+}
