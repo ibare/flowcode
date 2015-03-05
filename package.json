@@ -1,0 +1,27 @@
+{
+  "name": "flowcode",
+  "version": "0.0.1",
+  "description": "flowcode",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-jade": "^1.0.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-sass": "^1.3.3",
+    "gulp-watch": "^4.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ibare/flowcode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibare/flowcode/issues"
+  },
+  "homepage": "https://github.com/ibare/flowcode"
+}
