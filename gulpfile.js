@@ -56,7 +56,7 @@ gulp.task('watch', function() {
   });
 
   gulp.watch([
-      path.join(config.sassPath, '**/*.sass'),
+      path.join(config.sassPath, '**/*.scss'),
       path.join(config.bowerPath, 'fontawesome/scss/*.scss')
     ], function() {
       gulp.start('css');
